@@ -1,0 +1,1 @@
+{'index': 2, 'timestamp': 1681652228.2966807, 'transactions': [{'sender': 'Deepika Pasupuleti', 'recipient': 'apna@gmail.com', 'amount': '2000'}], 'proof': 1, 'previous_hash': 'fdad609ef3851e21663180eb833cd12406d81476a5c323c981c7f6f9662004e6'}
